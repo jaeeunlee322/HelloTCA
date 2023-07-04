@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		ADD8DECB2A54470700B690C1 /* HelloTCAApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD8DECA2A54470700B690C1 /* HelloTCAApp.swift */; };
-		ADD8DECD2A54470700B690C1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD8DECC2A54470700B690C1 /* ContentView.swift */; };
 		ADD8DECF2A54470A00B690C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADD8DECE2A54470A00B690C1 /* Assets.xcassets */; };
 		ADD8DED22A54470A00B690C1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADD8DED12A54470A00B690C1 /* Preview Assets.xcassets */; };
 		ADD8DEDC2A54470B00B690C1 /* HelloTCATests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD8DEDB2A54470B00B690C1 /* HelloTCATests.swift */; };
@@ -39,7 +38,6 @@
 /* Begin PBXFileReference section */
 		ADD8DEC72A54470700B690C1 /* HelloTCA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloTCA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADD8DECA2A54470700B690C1 /* HelloTCAApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloTCAApp.swift; sourceTree = "<group>"; };
-		ADD8DECC2A54470700B690C1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ADD8DECE2A54470A00B690C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ADD8DED12A54470A00B690C1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		ADD8DED72A54470B00B690C1 /* HelloTCATests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloTCATests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -101,7 +99,6 @@
 			isa = PBXGroup;
 			children = (
 				ADD8DECA2A54470700B690C1 /* HelloTCAApp.swift */,
-				ADD8DECC2A54470700B690C1 /* ContentView.swift */,
 				ADD8DECE2A54470A00B690C1 /* Assets.xcassets */,
 				ADD8DED02A54470A00B690C1 /* Preview Content */,
 				ADD8DEF42A54471900B690C1 /* CounterFeature.swift */,
@@ -272,7 +269,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				ADD8DEF52A54471900B690C1 /* CounterFeature.swift in Sources */,
-				ADD8DECD2A54470700B690C1 /* ContentView.swift in Sources */,
 				ADD8DECB2A54470700B690C1 /* HelloTCAApp.swift in Sources */,
 				ADD8DEFA2A544C1F00B690C1 /* CounterView.swift in Sources */,
 			);
