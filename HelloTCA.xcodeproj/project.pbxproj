@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		007023DE2A5B026900A9D8DD /* NumberFactClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 007023DD2A5B026900A9D8DD /* NumberFactClient.swift */; };
 		ADD8DECB2A54470700B690C1 /* HelloTCAApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADD8DECA2A54470700B690C1 /* HelloTCAApp.swift */; };
 		ADD8DECF2A54470A00B690C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADD8DECE2A54470A00B690C1 /* Assets.xcassets */; };
 		ADD8DED22A54470A00B690C1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADD8DED12A54470A00B690C1 /* Preview Assets.xcassets */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		007023DC2A5A853300A9D8DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		007023DD2A5B026900A9D8DD /* NumberFactClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumberFactClient.swift; sourceTree = "<group>"; };
 		ADD8DEC72A54470700B690C1 /* HelloTCA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloTCA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADD8DECA2A54470700B690C1 /* HelloTCAApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloTCAApp.swift; sourceTree = "<group>"; };
 		ADD8DECE2A54470A00B690C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 		ADD8DEC92A54470700B690C1 /* HelloTCA */ = {
 			isa = PBXGroup;
 			children = (
+				007023DD2A5B026900A9D8DD /* NumberFactClient.swift */,
 				007023DC2A5A853300A9D8DD /* Info.plist */,
 				ADD8DECA2A54470700B690C1 /* HelloTCAApp.swift */,
 				ADD8DECE2A54470A00B690C1 /* Assets.xcassets */,
@@ -273,6 +276,7 @@
 				ADD8DEF52A54471900B690C1 /* CounterFeature.swift in Sources */,
 				ADD8DECB2A54470700B690C1 /* HelloTCAApp.swift in Sources */,
 				ADD8DEFA2A544C1F00B690C1 /* CounterView.swift in Sources */,
+				007023DE2A5B026900A9D8DD /* NumberFactClient.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
